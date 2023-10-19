@@ -1,2 +1,3 @@
 # potato
-Sistema criado em um servidor de computador secundário, para a criação de um aplicativo mobile.
+
+System created on a secondary computer server for the development of a mobile application.
